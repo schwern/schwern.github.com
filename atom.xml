@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[This Is A Test]]></title>
+  <link href="http://schwern.github.com/atom.xml" rel="self"/>
+  <link href="http://schwern.github.com/"/>
+  <updated>2013-02-18T14:33:10+11:00</updated>
+  <id>http://schwern.github.com/</id>
+  <author>
+    <name><![CDATA[Michael G. Schwern]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[This Is A Test]]></title>
+    <link href="http://schwern.github.com/2013/02/18/this-is-a-test/"/>
+    <updated>2013-02-18T13:41:00+11:00</updated>
+    <id>http://schwern.github.com/2013/02/18/this-is-a-test</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://schwern.github.com/images/Derpy_Please_Stand_By_blog.jpeg" width="800" height="600" title="Please Standy By" ></p>
+
+<!-- more -->
+
+
+<p>This is only a test.</p>
+
+<p>If this were an actual blog post, ranting, rambling and pictures of ponies and cats would follow.</p>
+]]></content>
+  </entry>
+  
+</feed>
