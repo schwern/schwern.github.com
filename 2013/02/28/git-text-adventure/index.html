@@ -5,12 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>This Is A Test - This Is A Test</title>
+  <title>Git text adventure - This Is A Test</title>
   <meta name="author" content="Michael G. Schwern">
 
   
-  <meta name="description" content=" This is only a test. If this were an actual blog post, ranting, rambling and pictures of ponies and cats would follow.
-">
+  <meta name="description" content="At the PDX Git Together last night, Lyzi Diamond and many others expressed their frustration at Git, but in very constructive ways. People called for &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -19,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://blog.schwern.net/2013/02/18/this-is-a-test/">
+  <link rel="canonical" href="http://blog.schwern.net/2013/02/28/git-text-adventure/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -80,7 +79,7 @@
   
   <header>
     
-      <h1 class="entry-title">This Is a Test</h1>
+      <h1 class="entry-title">Git Text Adventure</h1>
     
     
       <p class="meta">
@@ -96,21 +95,74 @@
   
 
 
-<time datetime="2013-02-18T13:41:00-08:00" pubdate data-updated="true">Mon 18.Feb.2013 13:41 -0800</time>
+<time datetime="2013-02-28T13:43:00-08:00" pubdate data-updated="true">Thu 28.Feb.2013 13:43 -0800</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p><img class="center" src="/images/Derpy_Please_Stand_By_blog.jpeg" width="800" height="600" title="Please Standy By" ></p>
+<div class="entry-content"><p>At the <a href="pdxgit.com">PDX Git Together</a> last night, <a href="https://twitter.com/lyzidiamond">Lyzi Diamond</a> and many others expressed their frustration at Git, but in very constructive ways.  People called for better, friendlier tutorials.</p>
+
+<p>Git is hard, and if anyone tells you otherwise they&#8217;re lying.</p>
+
+<p>Git is hard, and its not your fault if you don&#8217;t get it.</p>
+
+<p><a href="https://twitter.com/ericsbrain">Eric Willhelm</a> had one of his usual brain waves, what if Git were a text adventure game?</p>
+
+<p><a href="https://github.com/schwern/git-adventure">What if it were</a>?  Here&#8217;s how it might look&#8230;</p>
 
 <!-- more -->
 
 
-<p>This is only a test.</p>
+<h2>Welcome to The World of Git!</h2>
 
-<p>If this were an actual blog post, ranting, rambling and pictures of ponies and cats would follow.</p>
+<p>Git is a version control system of frustration, danger and low cunning!</p>
+
+<p>You&#8217;re in an empty directory, there is no repository here.
+Its dark and you are likely to be eaten by a troll.<br />
+<code>git&gt; status</code></p>
+
+<p><em>A disembodied voice booms!</em></p>
+
+<pre><code>fatal: Not a git repository (or any of the parent directories): .git
+</code></pre>
+
+<p>There is no git repository here!  You must <em>init</em> one first to continue your quest.<br />
+<code>git&gt; init</code></p>
+
+<p><em>A disembodied voice booms!</em></p>
+
+<pre><code>Initialized empty Git repository in /Dungeons/git/player/.git/
+</code></pre>
+
+<p>You create a new repository!  Huzzah!</p>
+
+<p>The <a href="http://gitready.com/advanced/2009/03/23/whats-inside-your-git-directory.html">.git directory</a> springs into existence on the floor before you.  Its warm glow lights the room and keeps the trolls at bay.  Everything you do with git will be contained in this one directory.</p>
+
+<p>A clear pool of water appears at your feet.  It is known by many names in many tongues: the index, the cache, the <a href="http://gitready.com/beginner/2009/01/18/the-staging-area.html">staging area</a>.  We will refer to it here as the staging pool.  Before anything is added to the repository it must pass through the staging pool.  When you <em>add</em> to the repository you are saving a copy in the staging pool.</p>
+
+<p>A new label appears at the start of the repository, it says &#8220;master&#8221;.  It is your current branch.  It will move with you while you <em>commit</em> more things in the repository.</p>
+
+<p>You are on a branch called &#8220;master&#8221; in the initial commit to your repository.  The repository is empty.  The staging pool is empty, it seems to want you to <em>add</em> something.</p>
+
+<p>You take a file called README from your backpack and place it in the directory.  You must <em>add</em> this file to the staging area.</p>
+
+<p>There is an untracked file here called &#8220;README&#8221;.<br />
+<code>git&gt; add</code></p>
+
+<p><em>A disembodied voice booms!</em></p>
+
+<pre><code>Nothing specified, nothing added.
+</code></pre>
+
+<p>The Git Lords are trying to tell you that you must say which files you want to <em>add</em>.  In this case its the README file.<br />
+<code>git&gt; add README</code></p>
+
+<p>You dip the README into the staging area.  Its reflection appears in the water.  As you put the README back on the floor you notice the reflection of the README remains.  The staging area has remembered a copy of README.</p>
+
+<p>You are on a branch called &#8220;master&#8221; in the initial commit to your repository.  The repository is empty.  The staging pool contains a copy of the README file.  You must get the contents of the staging pool into the master branch.  The repository seems to want you to <em>commit</em> to it. <br />
+<code>git&gt;</code></p>
 </div>
 
 
@@ -133,7 +185,7 @@
   
 
 
-<time datetime="2013-02-18T13:41:00-08:00" pubdate data-updated="true">Mon 18.Feb.2013 13:41 -0800</time>
+<time datetime="2013-02-28T13:43:00-08:00" pubdate data-updated="true">Thu 28.Feb.2013 13:43 -0800</time>
       
 
 
@@ -141,7 +193,7 @@
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.schwern.net/2013/02/18/this-is-a-test/" data-via="schwern" data-counturl="http://blog.schwern.net/2013/02/18/this-is-a-test/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.schwern.net/2013/02/28/git-text-adventure/" data-via="schwern" data-counturl="http://blog.schwern.net/2013/02/28/git-text-adventure/" >Tweet</a>
   
   
   
@@ -150,8 +202,8 @@
     
     <p class="meta">
       
+        <a class="basic-alignment left" href="/2013/02/18/this-is-a-test/" title="Previous Post: This Is A Test">&laquo; This Is A Test</a>
       
-        <a class="basic-alignment right" href="/2013/02/28/git-text-adventure/" title="Next Post: Git text adventure">Git text adventure &raquo;</a>
       
     </p>
   </footer>
@@ -248,8 +300,8 @@
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://blog.schwern.net/2013/02/18/this-is-a-test/';
-        var disqus_url = 'http://blog.schwern.net/2013/02/18/this-is-a-test/';
+        var disqus_identifier = 'http://blog.schwern.net/2013/02/28/git-text-adventure/';
+        var disqus_url = 'http://blog.schwern.net/2013/02/28/git-text-adventure/';
         var disqus_script = 'embed.js';
       
     (function () {

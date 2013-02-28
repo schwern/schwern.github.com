@@ -4,7 +4,7 @@
   <title><![CDATA[This Is A Test]]></title>
   <link href="http://blog.schwern.net/atom.xml" rel="self"/>
   <link href="http://blog.schwern.net/"/>
-  <updated>2013-02-28T13:42:56-08:00</updated>
+  <updated>2013-02-28T14:04:24-08:00</updated>
   <id>http://blog.schwern.net/</id>
   <author>
     <name><![CDATA[Michael G. Schwern]]></name>
@@ -12,6 +12,75 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Git text adventure]]></title>
+    <link href="http://blog.schwern.net/2013/02/28/git-text-adventure/"/>
+    <updated>2013-02-28T13:43:00-08:00</updated>
+    <id>http://blog.schwern.net/2013/02/28/git-text-adventure</id>
+    <content type="html"><![CDATA[<p>At the <a href="pdxgit.com">PDX Git Together</a> last night, <a href="https://twitter.com/lyzidiamond">Lyzi Diamond</a> and many others expressed their frustration at Git, but in very constructive ways.  People called for better, friendlier tutorials.</p>
+
+<p>Git is hard, and if anyone tells you otherwise they&#8217;re lying.</p>
+
+<p>Git is hard, and its not your fault if you don&#8217;t get it.</p>
+
+<p><a href="https://twitter.com/ericsbrain">Eric Willhelm</a> had one of his usual brain waves, what if Git were a text adventure game?</p>
+
+<p><a href="https://github.com/schwern/git-adventure">What if it were</a>?  Here&#8217;s how it might look&#8230;</p>
+
+<!-- more -->
+
+
+<h2>Welcome to The World of Git!</h2>
+
+<p>Git is a version control system of frustration, danger and low cunning!</p>
+
+<p>You&#8217;re in an empty directory, there is no repository here.
+Its dark and you are likely to be eaten by a troll.<br />
+<code>git&gt; status</code></p>
+
+<p><em>A disembodied voice booms!</em></p>
+
+<pre><code>fatal: Not a git repository (or any of the parent directories): .git
+</code></pre>
+
+<p>There is no git repository here!  You must <em>init</em> one first to continue your quest.<br />
+<code>git&gt; init</code></p>
+
+<p><em>A disembodied voice booms!</em></p>
+
+<pre><code>Initialized empty Git repository in /Dungeons/git/player/.git/
+</code></pre>
+
+<p>You create a new repository!  Huzzah!</p>
+
+<p>The <a href="http://gitready.com/advanced/2009/03/23/whats-inside-your-git-directory.html">.git directory</a> springs into existence on the floor before you.  Its warm glow lights the room and keeps the trolls at bay.  Everything you do with git will be contained in this one directory.</p>
+
+<p>A clear pool of water appears at your feet.  It is known by many names in many tongues: the index, the cache, the <a href="http://gitready.com/beginner/2009/01/18/the-staging-area.html">staging area</a>.  We will refer to it here as the staging pool.  Before anything is added to the repository it must pass through the staging pool.  When you <em>add</em> to the repository you are saving a copy in the staging pool.</p>
+
+<p>A new label appears at the start of the repository, it says &#8220;master&#8221;.  It is your current branch.  It will move with you while you <em>commit</em> more things in the repository.</p>
+
+<p>You are on a branch called &#8220;master&#8221; in the initial commit to your repository.  The repository is empty.  The staging pool is empty, it seems to want you to <em>add</em> something.</p>
+
+<p>You take a file called README from your backpack and place it in the directory.  You must <em>add</em> this file to the staging area.</p>
+
+<p>There is an untracked file here called &#8220;README&#8221;.<br />
+<code>git&gt; add</code></p>
+
+<p><em>A disembodied voice booms!</em></p>
+
+<pre><code>Nothing specified, nothing added.
+</code></pre>
+
+<p>The Git Lords are trying to tell you that you must say which files you want to <em>add</em>.  In this case its the README file.<br />
+<code>git&gt; add README</code></p>
+
+<p>You dip the README into the staging area.  Its reflection appears in the water.  As you put the README back on the floor you notice the reflection of the README remains.  The staging area has remembered a copy of README.</p>
+
+<p>You are on a branch called &#8220;master&#8221; in the initial commit to your repository.  The repository is empty.  The staging pool contains a copy of the README file.  You must get the contents of the staging pool into the master branch.  The repository seems to want you to <em>commit</em> to it. <br />
+<code>git&gt;</code></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[This Is A Test]]></title>
