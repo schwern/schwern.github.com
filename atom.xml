@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[This Is A Test]]></title>
-  <link href="http://schwern.github.com/atom.xml" rel="self"/>
-  <link href="http://schwern.github.com/"/>
-  <updated>2013-02-18T14:52:38+11:00</updated>
-  <id>http://schwern.github.com/</id>
+  <link href="http://blog.schwern.net/atom.xml" rel="self"/>
+  <link href="http://blog.schwern.net/"/>
+  <updated>2013-02-28T13:38:46-08:00</updated>
+  <id>http://blog.schwern.net/</id>
   <author>
     <name><![CDATA[Michael G. Schwern]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[This Is A Test]]></title>
-    <link href="http://schwern.github.com/2013/02/18/this-is-a-test/"/>
-    <updated>2013-02-18T13:41:00+11:00</updated>
-    <id>http://schwern.github.com/2013/02/18/this-is-a-test</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://schwern.github.com/images/Derpy_Please_Stand_By_blog.jpeg" width="800" height="600" title="Please Standy By" ></p>
+    <link href="http://blog.schwern.net/2013/02/18/this-is-a-test/"/>
+    <updated>2013-02-18T13:41:00-08:00</updated>
+    <id>http://blog.schwern.net/2013/02/18/this-is-a-test</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://blog.schwern.net/images/Derpy_Please_Stand_By_blog.jpeg" width="800" height="600" title="Please Standy By" ></p>
 
 <!-- more -->
 

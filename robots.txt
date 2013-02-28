@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://schwern.github.com/sitemap.xml 
+Sitemap: http://blog.schwern.net/sitemap.xml 

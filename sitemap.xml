@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://schwern.github.com/2013/02/18/this-is-a-test/</loc>
-        <lastmod>2013-02-18T14:11:55+11:00</lastmod>
+        <loc>http://blog.schwern.net/2013/02/18/this-is-a-test/</loc>
+        <lastmod>2013-02-17T19:11:55-08:00</lastmod>
     </url>
     <url>
-        <loc>http://schwern.github.com/blog/archives/</loc>
-        <lastmod>2013-02-18T14:11:55+11:00</lastmod>
+        <loc>http://blog.schwern.net/blog/archives/</loc>
+        <lastmod>2013-02-17T19:11:55-08:00</lastmod>
     </url>
     <url>
-        <loc>http://schwern.github.com/</loc>
-        <lastmod>2013-02-18T14:11:55+11:00</lastmod>
+        <loc>http://blog.schwern.net/</loc>
+        <lastmod>2013-02-17T19:11:55-08:00</lastmod>
     </url>
     <url>
-        <loc>http://schwern.github.com/robots.txt</loc>
-        <lastmod>2013-02-18T13:21:47+11:00</lastmod>
+        <loc>http://blog.schwern.net/robots.txt</loc>
+        <lastmod>2013-02-17T18:21:47-08:00</lastmod>
     </url>
 </urlset>
