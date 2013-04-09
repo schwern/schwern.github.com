@@ -4,7 +4,7 @@
   <title><![CDATA[This Is A Test]]></title>
   <link href="http://blog.schwern.net/atom.xml" rel="self"/>
   <link href="http://blog.schwern.net/"/>
-  <updated>2013-02-28T14:04:24-08:00</updated>
+  <updated>2013-04-09T11:16:13-07:00</updated>
   <id>http://blog.schwern.net/</id>
   <author>
     <name><![CDATA[Michael G. Schwern]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[It's just a joke]]></title>
+    <link href="http://blog.schwern.net/2013/04/09/its-just-a-joke/"/>
+    <updated>2013-04-09T11:05:00-07:00</updated>
+    <id>http://blog.schwern.net/2013/04/09/its-just-a-joke</id>
+    <content type="html"><![CDATA[<p>This was <a href="http://perlmonks.com/?node_id=1027626">originally a post I made on PerlMonks</a> about an <a href="http://perlmonks.com/?node_id=1026502">entry in a poll</a> they have on their front page which contained the choice&#8230;</p>
+
+<pre><code>None - I refuse to acknowledge the term man hours,
+you patriarchical pig. But I have many person-hours.
+And let me tell you.....
+</code></pre>
+
+<p>And what the tech community totally needs right now jokes at the expense of feminists and women right on the front page of their community web sites.</p>
+
+<p>This may be a small thing, but it illustrates some pretty huge issues. What it comes down to is this: which is more important, being able to make stupid jokes at the expense of women? Or making people feel comfortable at Perlmonks? I&#8217;m going to be loud about this because there are so many in this community that will either think it&#8217;s ok or keep quiet, either out of not knowing what to say or not wanting to be involved in the backlash.</p>
+
+<!-- more -->
+
+
+<p>We&#8217;re 95%+ men. We&#8217;re part of an industry that has a terrible attitude towards women. In that place we&#8217;re all in there&#8217;s no such thing as &#8220;it&#8217;s just a joke&#8221;. Here&#8217;s all the things I read into this little bit of humor&#8230;</p>
+
+<p>&#8220;It&#8217;s just a joke, lighten up&#8221; says so much. It says &#8220;my stupid joke is more important than offending you&#8221;. It says &#8220;you shouldn&#8217;t feel the way you feel&#8221;. It says &#8220;I&#8217;m not going to take this issue seriously&#8221;. The stupider and smaller and cruder the joke, the more it says &#8220;you&#8217;re not important&#8221;.</p>
+
+<p>I see a ham-fisted caricature of feminism. It makes fun of anyone who would try to talk about the things we say and how they might reflect on others who are not like us. It&#8217;s such a crude and tired caricature that it says more about the person who wrote it than it does about feminists. It says that person has a childish view of gender politics, doesn&#8217;t want to think about why we&#8217;re 95% men, and this is how they lash out.</p>
+
+<p>I see answering a simple vote about Perl, on the front page of a major Perl web site, turning into yet another opportunity to take a shot at women. It&#8217;s another instance of the gauntlet of mild abuse you need to run just to be involved in technology. This is a vote about Perl, why does it have to contain a shot at women?</p>
+
+<p>It says that we&#8217;re willing to take shots at women for the sake of our amusement. Whomever wrote it found it amusing, I don&#8217;t doubt, but who pays for it? Who is the victim here? Women and feminists. It says &#8220;hey underpowered and under-represented group, you get to pay for our joke! Thanks for taking one for the team you&#8217;re not really part of!&#8221;</p>
+
+<p>By not making the responses simple, it adds baggage to the response. I can&#8217;t just say I don&#8217;t put time into Perl, I have to join in on a stupid joke. I can&#8217;t just say I put in a few hours, I have to take on the identify of some &#8220;freaked out&#8221; user. I can&#8217;t just say I put in hundreds of hours, I have to imply that I want to help develop Perl. What should be a simple poll is assigning personalities and traits to the time spent on Perl, reflecting the biases of who wrote the poll and driving people towards dishonest answers. I realize this is Perlmonks and not terribly serious, but it&#8217;s still there.</p>
+
+<p>I am a feminist. I am offended at having shots taken at my expense, my friend&#8217;s expense and women&#8217;s expense. We should be above that. People should be able to come to Perlmonks to talk about Perl, relax and enjoy it. Not get their politics or gender shoved in their face on the front page for the sake of somebody&#8217;s stupid joke.</p>
+
+<p>If you&#8217;re going to make a joke at somebody&#8217;s expense, make it at your own.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Git text adventure]]></title>
