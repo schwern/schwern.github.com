@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://schwern.github.com
+url: http://blog.schwern.net
 title: This Is A Test
 subtitle: Schwern, now in blog form!
 author: Michael G. Schwern
@@ -90,7 +90,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: schwern
+disqus_short_name: blog-schwern
 disqus_show_comment_count: false
 
 # Google Analytics
