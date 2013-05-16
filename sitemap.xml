@@ -2,26 +2,30 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://blog.schwern.net/2013/02/18/this-is-a-test/</loc>
-        <lastmod>2013-02-17T19:11:55-08:00</lastmod>
+        <lastmod>2013-05-14T20:23:47-07:00</lastmod>
     </url>
     <url>
         <loc>http://blog.schwern.net/2013/02/28/git-text-adventure/</loc>
-        <lastmod>2013-02-28T14:04:10-08:00</lastmod>
+        <lastmod>2013-05-14T20:23:47-07:00</lastmod>
     </url>
     <url>
         <loc>http://blog.schwern.net/2013/04/09/its-just-a-joke/</loc>
-        <lastmod>2013-04-09T11:15:27-07:00</lastmod>
+        <lastmod>2013-05-14T20:23:47-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.schwern.net/2013/05/15/yapcna-2013-withdrawal/</loc>
+        <lastmod>2013-05-15T20:58:42-07:00</lastmod>
     </url>
     <url>
         <loc>http://blog.schwern.net/blog/archives/</loc>
-        <lastmod>2013-04-09T11:15:27-07:00</lastmod>
+        <lastmod>2013-05-15T20:58:42-07:00</lastmod>
     </url>
     <url>
         <loc>http://blog.schwern.net/</loc>
-        <lastmod>2013-04-09T11:15:27-07:00</lastmod>
+        <lastmod>2013-05-15T20:58:42-07:00</lastmod>
     </url>
     <url>
         <loc>http://blog.schwern.net/robots.txt</loc>
-        <lastmod>2013-02-17T18:21:47-08:00</lastmod>
+        <lastmod>2013-05-14T20:23:47-07:00</lastmod>
     </url>
 </urlset>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[This Is A Test]]></title>
-  <link href="http://blog.schwern.net/atom.xml" rel="self"/>
+  <title><![CDATA[Category: coc | This Is A Test]]></title>
+  <link href="http://blog.schwern.net/categories/coc/atom.xml" rel="self"/>
   <link href="http://blog.schwern.net/"/>
   <updated>2013-05-15T21:02:17-07:00</updated>
   <id>http://blog.schwern.net/</id>
@@ -32,7 +32,7 @@ withdrawn. <sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
 <!-- more -->
 
 
-<p><img class="center" src="http://blog.schwern.net/images/schwern_Ineffective_Perl_Programming.jpg" title="Schwern at YAPC::NA 1999 giving Ineffective Perl Programming" ></p>
+<p><img class="center" src="/images/schwern_Ineffective_Perl_Programming.jpg" title="Schwern at YAPC::NA 1999 giving Ineffective Perl Programming" ></p>
 
 <p>For those who don&rsquo;t know me or YAPC::NA, I&rsquo;d like you to understand
 how serious not going is for me, and how things have
@@ -62,7 +62,7 @@ incident in question was verbal abuse against a volunteer on <a href="http://www
 people including channel operators and a irc.perl.org server
 administrator.  I was informed of the abuse by the volunteer and asked
 to intervene.  It escalated from me speaking with the server admin, to
-the YAPC::NA Director, to <a href="http://blog.schwern.net/static/yapc2013-coc-complaint1.txt">an official Code Of Conduct complaint</a> including logs of the
+the YAPC::NA Director, to <a href="/static/yapc2013-coc-complaint1.txt">an official Code Of Conduct complaint</a> including logs of the
 conversations.</p>
 
 <p>The YAPC::NA Director&rsquo;s replied saying he&rsquo;d forward it onto the proper
@@ -75,7 +75,7 @@ anything that indicates this I definitely do not have an interest
 in performing these duties.
 </code></pre>
 
-<p>I received a <a href="http://blog.schwern.net/static/yapc2013-coccom-reply1.txt">reply to my complaint</a> from
+<p>I received a <a href="/static/yapc2013-coccom-reply1.txt">reply to my complaint</a> from
 <a href="http://www.perlfoundation.org/who_s_who">Karen Pauley, president of The Perl Foundation</a> speaking for the
 Code Of Conduct Commitee.  It contains this.</p>
 
@@ -238,128 +238,6 @@ the first time I&rsquo;m being loud about it.  Let&rsquo;s start being loud.</p>
 </ol>
 </div>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[It's just a joke]]></title>
-    <link href="http://blog.schwern.net/2013/04/09/its-just-a-joke/"/>
-    <updated>2013-04-09T11:05:00-07:00</updated>
-    <id>http://blog.schwern.net/2013/04/09/its-just-a-joke</id>
-    <content type="html"><![CDATA[<p>This was <a href="http://perlmonks.com/?node_id=1027626">originally a post I made on PerlMonks</a> about an <a href="http://perlmonks.com/?node_id=1026502">entry in a poll</a> they have on their front page which contained the choice&hellip;</p>
-
-<pre><code>None - I refuse to acknowledge the term man hours,
-you patriarchical pig. But I have many person-hours.
-And let me tell you.....
-</code></pre>
-
-<p>And what the tech community totally needs right now jokes at the expense of feminists and women right on the front page of their community web sites.</p>
-
-<p>This may be a small thing, but it illustrates some pretty huge issues. What it comes down to is this: which is more important, being able to make stupid jokes at the expense of women? Or making people feel comfortable at Perlmonks? I&rsquo;m going to be loud about this because there are so many in this community that will either think it&rsquo;s ok or keep quiet, either out of not knowing what to say or not wanting to be involved in the backlash.</p>
-
-<!-- more -->
-
-
-<p>We&rsquo;re 95%+ men. We&rsquo;re part of an industry that has a terrible attitude towards women. In that place we&rsquo;re all in there&rsquo;s no such thing as &ldquo;it&rsquo;s just a joke&rdquo;. Here&rsquo;s all the things I read into this little bit of humor&hellip;</p>
-
-<p>&ldquo;It&rsquo;s just a joke, lighten up&rdquo; says so much. It says &ldquo;my stupid joke is more important than offending you&rdquo;. It says &ldquo;you shouldn&rsquo;t feel the way you feel&rdquo;. It says &ldquo;I&rsquo;m not going to take this issue seriously&rdquo;. The stupider and smaller and cruder the joke, the more it says &ldquo;you&rsquo;re not important&rdquo;.</p>
-
-<p>I see a ham-fisted caricature of feminism. It makes fun of anyone who would try to talk about the things we say and how they might reflect on others who are not like us. It&rsquo;s such a crude and tired caricature that it says more about the person who wrote it than it does about feminists. It says that person has a childish view of gender politics, doesn&rsquo;t want to think about why we&rsquo;re 95% men, and this is how they lash out.</p>
-
-<p>I see answering a simple vote about Perl, on the front page of a major Perl web site, turning into yet another opportunity to take a shot at women. It&rsquo;s another instance of the gauntlet of mild abuse you need to run just to be involved in technology. This is a vote about Perl, why does it have to contain a shot at women?</p>
-
-<p>It says that we&rsquo;re willing to take shots at women for the sake of our amusement. Whomever wrote it found it amusing, I don&rsquo;t doubt, but who pays for it? Who is the victim here? Women and feminists. It says &ldquo;hey underpowered and under-represented group, you get to pay for our joke! Thanks for taking one for the team you&rsquo;re not really part of!&rdquo;</p>
-
-<p>By not making the responses simple, it adds baggage to the response. I can&rsquo;t just say I don&rsquo;t put time into Perl, I have to join in on a stupid joke. I can&rsquo;t just say I put in a few hours, I have to take on the identify of some &ldquo;freaked out&rdquo; user. I can&rsquo;t just say I put in hundreds of hours, I have to imply that I want to help develop Perl. What should be a simple poll is assigning personalities and traits to the time spent on Perl, reflecting the biases of who wrote the poll and driving people towards dishonest answers. I realize this is Perlmonks and not terribly serious, but it&rsquo;s still there.</p>
-
-<p>I am a feminist. I am offended at having shots taken at my expense, my friend&rsquo;s expense and women&rsquo;s expense. We should be above that. People should be able to come to Perlmonks to talk about Perl, relax and enjoy it. Not get their politics or gender shoved in their face on the front page for the sake of somebody&rsquo;s stupid joke.</p>
-
-<p>If you&rsquo;re going to make a joke at somebody&rsquo;s expense, make it at your own.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Git text adventure]]></title>
-    <link href="http://blog.schwern.net/2013/02/28/git-text-adventure/"/>
-    <updated>2013-02-28T13:43:00-08:00</updated>
-    <id>http://blog.schwern.net/2013/02/28/git-text-adventure</id>
-    <content type="html"><![CDATA[<p>At the <a href="pdxgit.com">PDX Git Together</a> last night, <a href="https://twitter.com/lyzidiamond">Lyzi Diamond</a> and many others expressed their frustration at Git, but in very constructive ways.  People called for better, friendlier tutorials.</p>
-
-<p>Git is hard, and if anyone tells you otherwise they&rsquo;re lying.</p>
-
-<p>Git is hard, and its not your fault if you don&rsquo;t get it.</p>
-
-<p><a href="https://twitter.com/ericsbrain">Eric Willhelm</a> had one of his usual brain waves, what if Git were a text adventure game?</p>
-
-<p><a href="https://github.com/schwern/git-adventure">What if it were</a>?  Here&rsquo;s how it might look&hellip;</p>
-
-<!-- more -->
-
-
-<h2>Welcome to The World of Git!</h2>
-
-<p>Git is a version control system of frustration, danger and low cunning!</p>
-
-<p>You&rsquo;re in an empty directory, there is no repository here.
-Its dark and you are likely to be eaten by a troll.<br />
-<code>git&gt; status</code></p>
-
-<p><em>A disembodied voice booms!</em></p>
-
-<pre><code>fatal: Not a git repository (or any of the parent directories): .git
-</code></pre>
-
-<p>There is no git repository here!  You must <em>init</em> one first to continue your quest.<br />
-<code>git&gt; init</code></p>
-
-<p><em>A disembodied voice booms!</em></p>
-
-<pre><code>Initialized empty Git repository in /Dungeons/git/player/.git/
-</code></pre>
-
-<p>You create a new repository!  Huzzah!</p>
-
-<p>The <a href="http://gitready.com/advanced/2009/03/23/whats-inside-your-git-directory.html">.git directory</a> springs into existence on the floor before you.  Its warm glow lights the room and keeps the trolls at bay.  Everything you do with git will be contained in this one directory.</p>
-
-<p>A clear pool of water appears at your feet.  It is known by many names in many tongues: the index, the cache, the <a href="http://gitready.com/beginner/2009/01/18/the-staging-area.html">staging area</a>.  We will refer to it here as the staging pool.  Before anything is added to the repository it must pass through the staging pool.  When you <em>add</em> to the repository you are saving a copy in the staging pool.</p>
-
-<p>A new label appears at the start of the repository, it says &ldquo;master&rdquo;.  It is your current branch.  It will move with you while you <em>commit</em> more things in the repository.</p>
-
-<p>You are on a branch called &ldquo;master&rdquo; in the initial commit to your repository.  The repository is empty.  The staging pool is empty, it seems to want you to <em>add</em> something.</p>
-
-<p>You take a file called README from your backpack and place it in the directory.  You must <em>add</em> this file to the staging area.</p>
-
-<p>There is an untracked file here called &ldquo;README&rdquo;.<br />
-<code>git&gt; add</code></p>
-
-<p><em>A disembodied voice booms!</em></p>
-
-<pre><code>Nothing specified, nothing added.
-</code></pre>
-
-<p>The Git Lords are trying to tell you that you must say which files you want to <em>add</em>.  In this case its the README file.<br />
-<code>git&gt; add README</code></p>
-
-<p>You dip the README into the staging area.  Its reflection appears in the water.  As you put the README back on the floor you notice the reflection of the README remains.  The staging area has remembered a copy of README.</p>
-
-<p>You are on a branch called &ldquo;master&rdquo; in the initial commit to your repository.  The repository is empty.  The staging pool contains a copy of the README file.  You must get the contents of the staging pool into the master branch.  The repository seems to want you to <em>commit</em> to it. <br />
-<code>git&gt;</code></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[This Is A Test]]></title>
-    <link href="http://blog.schwern.net/2013/02/18/this-is-a-test/"/>
-    <updated>2013-02-18T13:41:00-08:00</updated>
-    <id>http://blog.schwern.net/2013/02/18/this-is-a-test</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://blog.schwern.net/images/Derpy_Please_Stand_By_blog.jpeg" width="800" height="600" title="Please Standy By" ></p>
-
-<!-- more -->
-
-
-<p>This is only a test.</p>
-
-<p>If this were an actual blog post, ranting, rambling and pictures of ponies and cats would follow.</p>
 ]]></content>
   </entry>
   

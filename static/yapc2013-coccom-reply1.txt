@@ -1,0 +1,23 @@
+Date: Wed, 1 May 2013 23:47:55 -0500
+Message-ID: <CALJ9w-R63dyLi7tg_6G+dG2Xnr3gRqZppw6oBorm8v-FF_thWw@mail.gmail.com>
+Subject: Re: CoC Complaint apeiron and kyriel
+From: Code of Conduct <coc-archive@yapcna.org>
+To: Todd Rinaldo <todd@rinaldo.us>
+Cc: Michael Schwern <schwern@pobox.com>
+
+Dear Schwern,
+
+Thank you for bringing this matter to our attention.
+
+The scope of the Code of Conduct, however,  does not extend to
+conversations on the #yapc channel that take place a month before the
+conference begins.
+
+Your complaint has raised an interesting question regarding the use of
+IRC during the conference and we will need to decide if #yapc can be
+the official channel given the response of the community there to
+Mellisa's conversation.
+
+Best regards,
+
+Karen Pauley, on behalf of the Code of Conduct Committee
