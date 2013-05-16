@@ -1,0 +1,53 @@
+Message-ID: <517D5BFF.7060109@pobox.com>
+Date: Sun, 28 Apr 2013 10:27:27 -0700
+From: "Michael G. Schwern" <schwern@pobox.com>
+To: Todd Rinaldo <todd@rinaldo.us>
+Subject: CoC Complaint apeiron and kyriel
+
+This is a CoC complaint against apeiron and kyriel.
+
+apeiron is an irc.perl.org admin.
+
+kyriel has ops in #yapc on irc.perl.org.
+
+Melissa Chavez is capnleela and our volunteer coordinator.
+
+#yapc is the official YAPC IRC channel.
+
+As I understand it, she was told by YAPC planners to go to #yapc to
+discuss the banquet location.
+
+Both were extremely hostile towards Melissa Chavez in channel when she
+tried to do her job as YAPC Volunteer Coordinator and raise an important
+issue.  Neither respected her position or treated the discussion with
+respect.  Both made extremely personal attacks.
+
+apeiron threatened to disconnect Melissa from the whole network merely
+for mentioning, in his opinion, too many people (all YAPC planners and
+relevant to the conversation) in a chat line.  He claimed this was a
+rule, but refused to show where it was posted.  (I have never heard of
+this rule).
+
+kyriel kicked Melissa.
+
+kyriel kicked noirin merely for joining the channel.
+
+I was not on channel when this happened.  Melissa contacted me for
+advice and to intervene.
+
+When I contacted apeiron about this in private, he immediately laid into
+me and Melissa.  He was extremely rude and curt and refused to discuss
+the matter.  I felt we could exert no control over the channel if
+apeiron didn't want us to.  I feel he will make up and enforce whatever
+rules he likes whenever he is upset.  I also felt he would answer to
+nobody but you.
+
+In addition, apeiron refused to give me a copy of the #YAPC logs.  He
+refused to even acknowledge I'd asked.  The deal we had with mst was
+irc.perl.org would provide public channel logs on request.
+
+As I understand it, this all happened on the 26th and 27th.  I contacted
+apieron on the 27th.  I have attached logs of the public channel for the
+27th and my conversation with apeiron.
+
+Schwern
