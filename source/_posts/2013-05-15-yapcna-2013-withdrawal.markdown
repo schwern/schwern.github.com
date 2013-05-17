@@ -66,7 +66,7 @@ CoC channel, but it concluded with...
     in performing these duties.
 
 I received a [reply to my complaint](/static/yapc2013-coccom-reply1.txt) from
-[Karen Pauley, president of The Perl Foundation](http://www.perlfoundation.org/who_s_who) speaking for the
+the president of [The Perl Foundation](http://www.perlfoundation.org/) speaking for the
 Code Of Conduct Commitee.  It contains this.
 
     The scope of the Code of Conduct, however, does not extend to
