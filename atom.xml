@@ -4,7 +4,7 @@
   <title><![CDATA[This Is A Test]]></title>
   <link href="http://blog.schwern.net/atom.xml" rel="self"/>
   <link href="http://blog.schwern.net/"/>
-  <updated>2013-05-15T21:14:14-07:00</updated>
+  <updated>2013-05-16T17:19:05-07:00</updated>
   <id>http://blog.schwern.net/</id>
   <author>
     <name><![CDATA[Michael G. Schwern]]></name>
@@ -14,11 +14,218 @@
 
   
   <entry>
+    <title type="html"><![CDATA[YAPC::NA 2012 - This Has All Happened Before And Will Happen Again]]></title>
+    <link href="http://blog.schwern.net/2013/05/16/yapcna-2012-poor-director-behavior/"/>
+    <updated>2013-05-16T13:51:00-07:00</updated>
+    <id>http://blog.schwern.net/2013/05/16/yapcna-2012-poor-director-behavior</id>
+    <content type="html"><![CDATA[<h2>YAPC::NA Series</h2>
+
+<ul>
+<li><a href="http://blog.schwern.net/2013/05/15/yapcna-2013-withdrawal/">YAPC::NA 2013 Will Not Enforce Its Code Of Conduct</a></li>
+<li>YAPC::NA 2012 &ndash; This Has All Happened Before And Will Happen Again</li>
+</ul>
+
+
+<p>A lot of people, when they see <a href="http://blog.schwern.net/2013/05/15/yapcna-2013-withdrawal/">a public post like mine about harassment</a>, they assume it&rsquo;s the first and only incident.</p>
+
+<p>Going public is seen as, let&rsquo;s see what I&rsquo;ve gotten so far&hellip; &ldquo;hypersensitivity&rdquo;, &ldquo;sensationalism&rdquo;, &ldquo;tempest in a teapot&rdquo;, &ldquo;a manifesto&rdquo;.  What they don&rsquo;t realize is it&rsquo;s usually a latest (but unlikely last) in a long chain of small and large incidents.  The reporter usually tried to get involved via normal channels, and were rejected.  They tried to alert others and to affect reform, and were probably told it wasn&rsquo;t a problem or that they should do more themselves.  After that they probably withdrew quietly.  By this point all community systems have failed me.  Taking an incident to the court of public opinion is the <em>last</em>, <em>most dangerous</em> and <em>most exhausting</em> option.  I risk not only the ire of the community, but of the whole internet, with the added issues which come with making a complaint public.</p>
+
+<p>If you think I&rsquo;m over reacting, or that I should just calm down, then let me tell about the time YAPC::NA 2012 harassed their keynote speaker for trying to discuss the Code Of Conduct.</p>
+
+<!-- more -->
+
+
+<p>In early 2012 I was <a href="https://www.youtube.com/watch?v=TAOxGjNbp_Y">invited to keynote YAPC::NA 2012</a> by its director<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>.  This was an honor for me, a <em>huge</em> honor!  Keynoting YAPC::NA was a huge deal for me, this is the conference where I got my start speaking.  This is <em>THE</em> Perl Conference for North America!</p>
+
+<p>By this point I had heard a lot of my friends privately stating they don&rsquo;t go to OSS conferences any more because they have been, or are fearful of, being abused.  I didn&rsquo;t know how YAPC::NA was dealing with this, so I had a look.  <a href="http://www.yapc2011.us/yn2011/conduct.html">YAPC::NA 2011 had a pretty good Code Of Conduct</a>, but YAPC::NA is run by a different group every year.  If you look at <a href="http://2012.yapcna.org/conference/code-of-conduct">2012&rsquo;s CoC <em>now</em></a> it looks pretty good.  It wasn&rsquo;t always that way.  And like this year, it had no teeth.</p>
+
+<p>This is <a href="http://web.archive.org/web/20120121074332/http://www.yapcna.org/conference/code-of-conduct">the originally published YAPC::NA 2012 Code Of Conduct</a>.</p>
+
+<pre><code>Code of Conduct
+
+At YAPC we do not tolerate harassment or illegal activities of any
+kind. We respect each other's differences, tastes, and
+beliefs. Because of this mutual respect, our code of conduct is
+quite simple:
+
+1. We expect all conference attendees to treat each other with respect.
+2. If a crime has been committed, call the Police.
+3. If someone is harassing you, ask them politely to stop.
+4. If they don't stop, report them to one of the YAPC staff; they are
+   wearing black "YAPC Staff" shirts.
+</code></pre>
+
+<p>This is a weak and problematic Code for many reasons<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>.  Here&rsquo;s a fundamental one: we don&rsquo;t agree on what &ldquo;respect&rdquo; or &ldquo;harassment&rdquo; mean.  We <em>think</em> we do, but we really, really don&rsquo;t.  We think Perl folks share a whole heap of values, but especially at conferences where 50% of the attendees are new, we&rsquo;re just a bunch of people who use the same programming language.  The Director goes on to demonstrate this in spades.</p>
+
+<p><a href="http://blog.schwern.net/static/yapc2012-coc-convo1.txt">I told the Director so in polite detail</a> and suggested a few already written and vetted ones they could adopt. If I made a mistake, it was in being more than a bit long winded and perhaps a bit preachy.  The CoC was so simplistic and committed so many basic errors that I made assumptions about my audience and I had my hackles up..  Knowing it would be a touchy subject, I offered to speak over the phone, since <a href="http://opensourcebridge.org/sessions/783">email can be problematic for tense conversations</a>.  However, this was nothing to earn <a href="http://blog.schwern.net/static/yapc2012-coc-convo2.txt">the response I got</a>.  Here&rsquo;s some excerpts&hellip;</p>
+
+<pre><code>I simply refuse to list bullet point examples of infractions. I'll
+be the judge of infractions...
+
+The extra words on the web site aren't going to change people
+from being assholes into polite society, nor will they make anyone
+feel more safe...
+
+I've talked to a dozen people that feel exactly like you do and
+they've all tried to convince me of exactly what you're saying...
+
+A policy would not have prevented that sort of thing [the
+ApacheCon incident] from happening, and if you believe it would,
+you're delusional...
+
+I will not put bullshit words on a web site and act as if they'd
+have any affect real world situations...
+</code></pre>
+
+<p>That could have gone better.  The Director is giving the classic <a href="http://geekfeminism.wikia.com/wiki/Why_anti-harassment_policies_should_be_public">&ldquo;we shouldn&rsquo;t list what harassment is&rdquo; argument</a>, and more than a bit aggressively.  He&rsquo;s expressed that he doesn&rsquo;t really believe in the Code Of Conduct, that words won&rsquo;t change anyone&rsquo;s behavior.  What he does believe in is a purely punitive system with justice solely doled out by him.  It&rsquo;s clear that he&rsquo;s very passionate about protecting people, but it&rsquo;s also clear the only point of view he&rsquo;s considering is his own and perhaps his friends.</p>
+
+<p>At this point the conversation hasn&rsquo;t gone completely off the rails.  It&rsquo;s rapidly heating, but not personal.  <a href="http://blog.schwern.net/static/yapc2012-coc-convo3.txt">I tried again</a>.  I fully admit talking about &ldquo;white guys&rdquo; wasn&rsquo;t a good choice, but it doesn&rsquo;t measure up to what I got back.  These are the sort of things <a href="http://blog.schwern.net/static/yapc2012-coc-convo4.txt">I got in reply</a>&hellip;</p>
+
+<pre><code>I have listened to the experts, and you're not it. Neither are the
+dozen people who have been harassing me about it. The only people
+who give a shit about this are white guys like you...
+
+How many people do you know that have been raped? I know seven...
+
+I know the people that are marginalized by society, because they
+are around me all the time. I think I have a better vantage point
+than you to make a judgement about what is or is not a good code
+of conduct...
+</code></pre>
+
+<p>Keep in mind, this is the Director of a Perl conference replying to a concern of his invited keynote speaker whom he has never met.  <em>We had never met</em>, there is no pre-existing anything between us personally.  This suddenly got really personal, really ugly, really fast.</p>
+
+<p>While I was still recovering from that, <a href="http://blog.schwern.net/static/yapc2012-coc-convo5.txt">another one came in</a> which I&rsquo;ll produce here in it&rsquo;s entirety.</p>
+
+<pre><code>Before you come back to me with yet another response about what a
+terrible person I am, or that I don't understand because I'm a
+white guy, I want to head you off at the pass.
+
+I think its great that you're out to make the world a better
+place, but save your effort for areas that need it.
+
+If you don't want to come to YAPC because I won't take your advice
+about the Code of Conduct, that's fine.  Several other white guys
+that sit on high horses have told me the same thing. If you think
+I'm not doing a good job of running YAPC, then put in a bid for
+yourself next year, and you can write whatever code of conduct you
+would like. Or feel free to use your keynote time at this YAPC to
+tell the audience how terrible this YAPC is going to be because
+it's missing a few words from the web site.
+
+The point is, you're not going to convince me to change my
+mind. Just let me know if you want to back out of they keynote, so
+I can assign it to someone who wants it.
+</code></pre>
+
+<p>Let&rsquo;s break that down.</p>
+
+<ul>
+<li>He&rsquo;s taken my comments about the CoC extremely personally.</li>
+<li>He&rsquo;s convinced I&rsquo;m going to use the keynote to bad mouth the conference.</li>
+<li>I have been told if I don&rsquo;t like how the conference is run I should just not come.</li>
+<li>In discussing harassment I have gotten harassed.
+
+<ul>
+<li>By the head of the conference.</li>
+<li>By the person in charge of anti-harassment.</li>
+<li>By the sole arbiter of what is and is not harassment.</li>
+</ul>
+</li>
+<li>Many people pointing out a problem is not seen as a reason to review the problem.</li>
+<li>He will not change his mind.</li>
+<li>If you appear to question his authority, you will get shit for it.</li>
+</ul>
+
+
+<p>This is not acceptable behavior for a conference director, to say the least.</p>
+
+<p>At this point it was quite obvious the Director has issues about the CoC that have nothing to do with me.  I stepped in some existing shit.  There&rsquo;s clearly an insecurity about his authority.  He&rsquo;s feeling pressure from a lot of avenues and has thrown a tantrum.  While it&rsquo;s a shame he&rsquo;s under pressure, this is his job.  Pressure is not an excuse to lash out.</p>
+
+<p>This was three months until the conference and already he&rsquo;s broken down under the pressure of having his CoC questioned.  What happens <em>during the conference</em> when he&rsquo;s really under pressure?  What happens when someone comes to him, the sole arbiter of what is and is not harassment, with a serious problem?  What if he&rsquo;s in a bad mood and decides their problem is not a problem?  At best, they&rsquo;re left unprotected.  At worst, he lashes out at them and they get more harassment.</p>
+
+<p>The conversation was nasty, going nowhere, and clearly not about me.  I stopped replying, but I couldn&rsquo;t leave it at that.  This was NOT the person who should be deciding what is and is not harassment.  This was NOT the person vulnerable people should be going to for help.  I asked around and learned others tried to have this conversation with him and <a href="http://blog.urth.org/2011/09/05/conference-code-of-conduct-considered-crucial/#comment-389">got a similar response</a>.</p>
+
+<p>If he&rsquo;s not going to listen to men, maybe he&rsquo;d listen to women.  I informed a few friends who are women and were planning on attending about the CoC and the Director&rsquo;s attitude and let them have at it.  For my efforts, I received this email from him.</p>
+
+<pre><code>From: ********* &lt;admin@yapcna.org&gt;
+Subject: you're an ass
+Date: Wed, 14 Mar 2012 00:13:20 -0500
+Message-Id: &lt;E40F5314-8F19-4A29-B0D5-E8B0D5FCDBF0@yapcna.org&gt;
+To: Michael G Schwern &lt;schwern@pobox.com&gt;
+
+You couldn't convince me so you decide to sick your friends on me.
+That's not going to help your case or your cause. Stop.
+
+********
+Director, YAPC::NA 2012
+http://www.yapcna.org
+</code></pre>
+
+<p>One of the biggest reasons people don&rsquo;t report harassment is because you tend to get more harassment.  <em>Especially</em> if the harasser finds out you reported them.  Here is the self appointed arbiter of harassment, coming after me because I spoke about his bad behavior to others.  Because I reported his harassing behavior, I get attacked.  He has violated one of the fundamental principles of handling an incident: you protect the people involved.</p>
+
+<p>Having no higher authority at YAPC::NA 2012 to appeal to, I sent the emails to <a href="http://www.perlfoundation.org/">The Perl Foundation</a> in the hopes they could do something.  I was informed, regretfully, that once YAPC::NA has been handed off to a group TPF has no authority to intervene.  However, they were looking into changing that&hellip;</p>
+
+<pre><code>Because of that we have been looking at this issue and put together a
+small group of people who are working to create a Code of Conduct and
+a set of procedures to be followed at a conference.  The idea being
+that when we make a call for future conference organisers that we make
+it clear that we are expecting and promote a particular set of
+guidelines.
+</code></pre>
+
+<p><a href="http://blog.schwern.net/2013/05/15/yapcna-2013-withdrawal/">That didn&rsquo;t work out so well</a>.</p>
+
+<p>I spent days deciding whether or not I should attend or withdraw.  Was the keynote worth it?  Or would it be more worthwhile to publicly withdraw and find out who else had abuse heaped on them by this guy?  I am his keynote speaker and a prominent member of the Perl community with all the power and privilege you can get.  He treated me extremely poorly.  What is going to happen to a mere attendee?</p>
+
+<p>In the end, other people got through to him.  The CoC was replaced by the very good <a href="http://opensourcebridge.org/about/code-of-conduct/">Open Source Bridge Code Of Conduct</a> (one I suggested in the first place).  The Director apologized to me for his hostility.  I never made this incident public.  Strange thing is, re-reading his emails now I see he believed passionately about protecting people, but his approach was egotistic, disrespectful and hostile in the extreme.</p>
+
+<p>I have been to a lot of conferences, and I have engaged them about all sorts of issues.  This is the worst and most shocking treatment I have ever had by a conference organizer. If it were not for the importance of the keynote topic I would have withdrawn and advised others did so too.  I had no faith that the CoC would be upheld and certainly would not send vulnerable people to such a person as the Director for help.  The poor treatment by the Director, in concert with the extreme touchiness of my choice of keynote topic, made for a very unpleasant few months leading up to the conference.  When I said at the end of the keynote I would take no questions it was because I was an exhausted wreck.</p>
+
+<p>Now it&rsquo;s time for YAPC::NA 2013.  I&rsquo;ve had a nasty fight over the CoC in 2012.  I&rsquo;ve already been harassed by a YAPC::NA conference organizer once.  I did not have much patience to be told by the 2013 organizer that building CoC procedures and enforcers was not necessary.  The alarm I raised in 2012 has largely been ignored.  While there was talk, the procedures promised by The Perl Foundation do not exist or failed.  I tried to go through normal channels last year and got nowhere.  <a href="http://localhost:4000/2013/05/15/yapcna-2013-withdrawal/">I tried to go through normal channels this year and got nowhere</a>.</p>
+
+<p>This is not the first time conferences have botched the Code Of Conduct, and it won&rsquo;t be the last.  Making this public is not my option of first resort, it is my option of exhausted <em>last</em> resort in the hopes that making the information more widely available to the actual and potential users of Perl will cause change.  Verbal abuse or physical abuse, whatever the reason&hellip; nobody should have to go through it to speak at or attend a Perl conference.  <em>Period</em>.  Now I&rsquo;ve gone through it once, I won&rsquo;t stand going through it twice.</p>
+
+<p>You may have noticed I&rsquo;ve omitted the Director&rsquo;s name from this story as much as possible.  In part because he apologized last year, and he behaved ok this year.  But more because I really don&rsquo;t want to bad mouth him or YAPC::NA.  I fretted about whether I should dig this up and post it in public, and I&rsquo;m a privileged white guy with power in my community and little risk of real backlash.  A lot of other people don&rsquo;t have that privilege.  And yet my impulse is <em>still</em> to protect YAPC, protect Perl, protect the people involved and give them all the chances to correct the problem.</p>
+
+<p>I&rsquo;m making this public because I have raised the alarm many times before and it has been ignored.  People inside YAPC::NA, TPF and perl.org still think behavioral oversight is <em>optional</em> and while they might fret about it they won&rsquo;t take action.  When someone tries to, they get shit for it.  When an incident does occur, there&rsquo;s no process in place to deal with it.  Over and over again.</p>
+
+<p>I am not the first by far in Perl to raise the alarm.</p>
+
+<p>Dave Rolsky made <a href="http://blog.urth.org/2011/09/05/conference-code-of-conduct-considered-crucial/">a fantastic post on the subject</a> in September 2011, deciding to go ahead and give YAPC::NA nine months to get their act together.  The 2012 Director clearly saw it <a href="http://blog.urth.org/2011/09/05/conference-code-of-conduct-considered-crucial/#comment-389">and made comments</a>.  Dave makes some <em>excellent</em> points in that post, particularly on the subtle details about what a Code Of Conduct really means, and moderates the comments like a boss.</p>
+
+<p>Before that in July 2011 there was <a href="http://radar.oreilly.com/2011/07/sexual-harassment-at-technical.html">a very public stink about OSCON&rsquo;s lack of a Code Of Conduct</a> which I participated in and discussed with many Perl folks.  It was pretty much all I did at OSCON 2011.  While at had its bumps, it was handled fairly gracefully and things turned out better in the end.</p>
+
+<p>Before that at OSCON 2009 Skud gave her keynote <a href="http://infotrope.net/2009/07/25/standing-out-in-the-crowd-my-oscon-keynote/">&ldquo;Standing Out In The Crowd&rdquo;</a>.  My 2012 keynote cribs heavily from her message.  She received a lot of abuse for that keynote and now no longer participates in Perl.</p>
+
+<p>That&rsquo;s just the public Perl ones I can think of.  I&rsquo;m sure there are more.  Have a read through the <a href="http://geekfeminism.wikia.com/wiki/Timeline_of_incidents">Timeline Of Incidents</a> and consider.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Note that YAPC::NA is run by a different group every year.  The 2012 and 2013 directors are different people.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>More on that in great detail <a href="http://blog.schwern.net/static/yapc2012-coc-convo1.txt">my initial post to the Director about this</a>.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[YAPC::NA 2013 Will Not Enforce Its Code Of Conduct]]></title>
     <link href="http://blog.schwern.net/2013/05/15/yapcna-2013-withdrawal/"/>
     <updated>2013-05-15T20:18:00-07:00</updated>
     <id>http://blog.schwern.net/2013/05/15/yapcna-2013-withdrawal</id>
-    <content type="html"><![CDATA[<p>I&rsquo;m not going to <a href="http://www.yapcna.org/yn2013/">YAPC::NA</a> this year.</p>
+    <content type="html"><![CDATA[<h2>YAPC::NA Series</h2>
+
+<ul>
+<li>YAPC::NA 2013 Will Not Enforce Its Code Of Conduct</li>
+<li><a href="http://blog.schwern.net/2013/05/16/yapcna-2012-poor-director-behavior/">YAPC::NA 2012 &ndash; This Has All Happened Before And Will Happen Again</a></li>
+</ul>
+
+
+<p>I&rsquo;m not going to <a href="http://www.yapcna.org/yn2013/">YAPC::NA</a> this year.</p>
 
 <p>I&rsquo;d been involved with the planning process for months, speaking with
 the Todd Rinaldo (the conference organizer) and volunteers.  I have stopped.  I&rsquo;d been <a href="http://www.yapcna.org/yn2013/talk/4664">accepted for a talk</a>.  I have withdrawn it.

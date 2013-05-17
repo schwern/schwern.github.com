@@ -1,0 +1,200 @@
+From: JT Smith <admin@yapcna.org>
+Subject: Re: The keynote & Code of Conduct
+Date: Fri, 9 Mar 2012 20:35:15 -0600
+In-Reply-To: <4F5AB572.2040303@pobox.com>
+To: Michael G Schwern <schwern@pobox.com>
+References: <4F5AB572.2040303@pobox.com>
+Message-Id: <CE3542D1-B45F-4BCF-9860-003BF59ABC0A@yapcna.org>
+
+Responses inline. Wow that's a long email. =)
+
+JT Smith
+Director, YAPC::NA 2012
+http://www.yapcna.org
+
+PS
+
+Another way you can support Perl is by adding a link to the bottom of
+your web site, or on your credits / thank you page to
+http://www.perl.org
+
+
+On Mar 9, 2012, at 7:59 PM, Michael G Schwern wrote:
+
+> Hey,
+> I wanted to make sure you got the fully "Schwern Experience" so I've left
+> writing up my proposals until the last minute. :P
+>
+> But seriously, I've kinda lost track of where things are at and what you need
+> from me.  Can you give me a refresher?
+
+Sure. Some of these I may not have asked you yet.
+
+ - I need you to purchase a plane/train ticket to Madison and then send
+me a copy of the receipt, and I'll have The Perl Foundation reimburse you.
+
+- I need to know your T-shirt size.
+
+- I need you to submit any talks you want to give beyond the keynote.
+
+
+>
+> I've been giving the keynote a lot of thought, particularly the Next
+> Generation theme.  I'll be focusing on that.  It will be a secret diversity
+> talk.  I hope by being a White Guy and turning a lot of the common arguments
+> inside out I can get the YAPC audience of Mostly White Guys thinking before
+> they realize they're in a diversity talk.
+
+Nice. I'm not sure if anyone can be "motivated" to do anything, but if
+it's possible, it would be awesome if you could somehow motivate the
+attendees to take some new peeps under their wing and build the next
+generation of Perl geeks.
+
+> I'll, of course, make it funny and informative and all that.
+
+Great.
+
+> I'm delighted to see YAPC has a Code of Conduct, but I'm disappointed that
+> it's fairly weak.  It's FAR weaker than YAPC::NA 2011's CoC which was a very
+> good one.  http://www.yapc2011.us/yn2011/conduct.html
+
+I disagree that it is weaker. It is shorter, but it's not weaker.
+
+> A CoC is not so much a binding set of rules as it is a statement of support,
+> intent and conviction.  Its audience is not just potential harassers, but also
+> the targets of harassment.  It says "enough is enough" and it says "when shit
+> happens, we know what to do and we've got your back".
+
+And ours says exactly that.
+
+> Plenty of other Open Source conferences have adopted strong codes of conduct.
+> The sky has not fallen.  They're not dominated by rules lawyers.
+> http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Adoption
+
+No one said it would. I simply refuse to list bullet point examples of
+infractions. I'll be the judge of infractions.
+
+I've read everything you've written below, but it's not going to happen.
+The extra words on the web site aren't going to change people from being
+assholes into polite society, nor will they make anyone feel more safe.
+
+
+I've talked to a dozen people that feel exactly like you do and they've
+all tried to convince me of exactly what you're saying. The bottom line
+is I've set up a code of conduct that isn't fascist and will still get
+the job done. The shit that went down in your ApacheCon example should
+be dealt with by the Police, not by us. A crime was committed, and she
+did the right thing and called them.  A policy would not have prevented
+that sort of thing from happening, and if you believe it would, you're
+delusional.
+
+This my world, and I prefer to live in a world without bullshit. I will
+protect the weak and those victimized with the greatest fervor of anyone
+you will ever know. However, I will not put bullshit words on a web site
+and act as if they'd have any affect real world situations.
+
+
+>
+> If this conference is really about The Next Generation then it should put its
+> money where its mouth is.  A strong CoC provides a declaration that YAPC will
+> be a safe space for people who are different.  Whether that be by race,
+> gender, age, programming language, education, editor, peer group, etc...  Step
+> one to getting new people into a conference is to make the place safe.
+>
+> I'd really like to see a CoC something like the PyCon CoC.
+> https://us.pycon.org/2012/codeofconduct/  It's clear, short and an easy read.
+> We (ie. safe white guys) should not be judging whether a CoC is strong
+> enough, we don't need protecting.  Listen to The Ada Initiative.  They like
+> the PyCon CoC.
+> http://adainitiative.org/2011/08/pycon-2012-announces-code-of-conduct/  I'm
+> pretty sure they'd agree with me that the YAPC CoC is too weak.
+>
+> I know people experienced at dealing with Codes Of Conduct and harassment in
+> Open Source who would be happy to help and advise.  I'm also fairly
+> knowledgeable about it and am happy to talk about it.  Probably best done over
+> the phone: 412.608.3812.
+>
+>
+> Particular details missing from the current CoC...
+>
+> * Clearly extend it to speakers
+>
+> Speakers have the MOST power at the conference and their audience has the
+> LEAST power to do anything about it.  Speakers serve as an example to others,
+> and they should be on their best behavior.  Make it very clear that speakers
+> which violate the CoC will not be invited back and severe violations will have
+> their talks stopped.
+>
+> * Include a non-exclusive list of targets which constitute harassment.
+>
+> Everybody has a different idea of what's ok.  A significant chunk of attendees
+> think they should act at a conference like they act at their local pub.
+> "Differences, tastes, and beliefs" is too vague.  A very clear list of what is
+> off-topic will prevent people from arguing they didn't know something was
+> off-topic.  It also will reign in the opposite end, people who don't know
+> what's ok any more.  Don't worry about the rules lawyers, they will rules
+> lawyer in bad faith no matter what.
+>
+> * Include clear punishment
+>
+> "Attendees violating these rules may be asked to leave the conference without
+> a refund at the sole discretion of the conference organizers."
+>
+> Make it clear you reserve the right to throw people out and never allow them
+> back again.  Make it clear you reserve the right to stop talks should a
+> presentation contain harassment and the speaker will not be invited back.  Do
+> this now before an incident happens.  Emotions are running high, people will
+> wring their hands about what sort of measures YAPC can take.
+>
+> * Make it clear harassment is not negotiable
+>
+> "Participants asked to stop any harassing behavior are expected to comply
+> immediately."
+>
+> One of the biggest problems with trying to stop harassment is the person doing
+> the harassing often does not think they're harassing.  When asked to stop they
+> will often argue that the target should lighten up, it was just a joke.
+> Worse, this being a conference dominated by White Guys, everyone around them
+> will likely agree.  In many instances, the harassment will get worse.
+>
+> The target of harassment generally has NO support and NO sympathy from the
+> people around them.  Just saying "stop" is a huge deal.  Most victims of
+> harassment, usually something minor, don't talk about it and simply don't come
+> back to the conference.
+>
+> Pointing out and reporting harassment results in MORE harassment.  Most
+> systematic targets of harassment (ie. non-White Guys) have had this
+> systematically beaten into them over the years.  They need all the support
+> they can get.  CLEAR support.  The attendees are overwhelmingly White Guys and
+> cannot be relied upon for support.  It's the conference's job to be that
+> support and to represent and protect the victim.
+>
+> The conference must be ready to step in to support and protect the victim.
+> The issue has to be resolved decisively while continuing to protect the victim
+> from slut shaming and follow on community attacks and confusion.
+>
+> Follow the horrible story of Noirin Plunkett.  Executive Vice President of
+> Apache, she was harassed at her own conference.  ApacheCon did not have a Code
+> of Conduct and refused to do anything about it.  She decided to blog about it
+> rather than keep quiet as most do.
+>
+> http://blog.nerdchic.net/archives/418/
+> http://blog.nerdchic.net/archives/690/
+> http://blog.nerdchic.net/archives/705/
+> http://geekfeminism.org/2010/11/07/noirins-hell-of-a-time/
+>
+> The comments on her blog reflect a small portion of the shit storm and slut
+> shaming she incurred.  Her post ended up on Gawker, Reddit and Hacker News
+> where the whole Internet could join in.  People threatened her.  People called
+> her parents and her work.
+>
+> Now she's nervous attending any Open Source conference.  Her example drives
+> away scores more of The Next Generation from ApacheCon and Open Source.  It
+> makes ApacheCon look bad.
+>
+>
+> --
+> 29. The Irish MPs are not after "Me frosted lucky charms".
+>    -- The 213 Things Skippy Is No Longer Allowed To Do In The U.S. Army
+>           http://skippyslist.com/list/
+
