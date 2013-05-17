@@ -1,0 +1,53 @@
+From: Michael G Schwern <schwern@pobox.com>
+To: JT Smith <admin@yapcna.org>
+Subject: Re: The keynote & Code of Conduct
+Date: Fri, 9 Mar 2012 20:35:15 -0600
+
+
+On 2012.3.9 6:35 PM, JT Smith wrote:
+> This my world, and I prefer to live in a world without bullshit. I will
+> protect the weak and those victimized with the greatest fervor of anyone you
+> will ever know. However, I will not put bullshit words on a web site and act
+> as if they'd have any affect real world situations.
+
+You might think it's bullshit, and the words might not mean much to you, but
+understand that your PoV is not a concern here.  Nor is mine.  The CoC doesn't
+exist for you and it doesn't exist for me.  This is hard to accept, but you
+must accept it in order to truly understand and get behind an anti-harassment
+policy.
+
+The words are not for us, they are for the people who have been harassed.
+They're for the people who feel unsafe in crowds of white guys because they,
+or somebody they know like them, has been assaulted and then nobody did
+anything about it.  The words are there to say "we will not stand for that
+shit, and we will listen to you" and that is very important to some people,
+but not to us because we're safe and we've always been safe.
+
+As dudes (and I realize I'm making an assumption about you, but it is a very
+safe bet), it is very difficult to understand how important that is logically
+but especially emotionally.  The CoC is not for us, and we don't need it.
+We're just dabblers.  As such, it's foolish for us to think we can decide
+what's best.
+
+Listen to the people who have a stake in the CoC, who have been victims of
+harassment, and who have been studying this problem for years.  Listen to the
+Ada Initiative, the Geek Feminism Wiki, Open Source Bridge (organizers half
+women who seriously and successfully looked at the problem of getting more
+women at Open Source conferences), Skud, Jacinta Richardson and whatever few
+Perl women I can scrape up these days.  Listen to the dozen people who have
+asked you to beef up the CoC.  Listen to your keynote speaker who has been
+researching this topic for a year.  Recognize our limits and listen to the
+experts and the stakeholders.
+
+It doesn't harm you to make the CoC more clear, it doesn't limit your
+authority, the experts say it's the right thing to do, and it will help those
+who are the whole point of the CoC.  Seems clear cut to me.
+
+I have many more things to say on the topic, but I won't overwhelm you just
+now.  I hope the above will be enough.
+
+
+--
+124. Two drink limit does not mean first and last.
+   -- The 213 Things Skippy Is No Longer Allowed To Do In The U.S. Army
+          http://skippyslist.com/list/

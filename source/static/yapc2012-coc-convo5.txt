@@ -1,0 +1,38 @@
+From: JT Smith <admin@yapcna.org>
+Subject: Re: The keynote & Code of Conduct
+Date: Fri, 9 Mar 2012 22:58:30 -0600
+In-Reply-To: <4F5AD607.8080204@pobox.com>
+To: Michael G Schwern <schwern@pobox.com>
+References: <4F5AB572.2040303@pobox.com> <CE3542D1-B45F-4BCF-9860-003BF59ABC0A@yapcna.org> <4F5AD607.8080204@pobox.com>
+Message-Id: <C5FB10F2-418C-4849-95C9-6EAC1632C75F@yapcna.org>
+
+Before you come back to me with yet another response about what a
+terrible person I am, or that I don't understand because I'm a white
+guy, I want to head you off at the pass.
+
+I think its great that you're out to make the world a better place, but
+save your effort for areas that need it.
+
+If you don't want to come to YAPC because I won't take your advice about
+the Code of Conduct, that's fine.  Several other white guys that sit on
+high horses have told me the same thing. If you think I'm not doing a
+good job of running YAPC, then put in a bid for yourself next year, and
+you can write whatever code of conduct you would like. Or feel free to
+use your keynote time at this YAPC to tell the audience how terrible
+this YAPC is going to be because it's missing a few words from the web
+site.
+
+The point is, you're not going to convince me to change my mind. Just
+let me know if you want to back out of they keynote, so I can assign it
+to someone who wants it.
+
+
+JT Smith
+Director, YAPC::NA 2012
+http://www.yapcna.org
+
+PS
+
+Another way you can support Perl is by adding a link to the bottom of
+your web site, or on your credits / thank you page to
+http://www.perl.org

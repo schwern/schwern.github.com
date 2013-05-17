@@ -6,6 +6,10 @@ comments: true
 categories: [yapcna2013, coc, diversity, protest]
 ---
 
+## YAPC::NA Series
+* YAPC::NA 2013 Will Not Enforce Its Code Of Conduct
+* [YAPC::NA 2012 - This Has All Happened Before And Will Happen Again](/2013/05/16/yapcna-2012-poor-director-behavior/)
+
 I'm not going to [YAPC::NA](http://www.yapcna.org/yn2013/) this year.
 
 I'd been involved with the planning process for months, speaking with

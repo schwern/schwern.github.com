@@ -1,0 +1,104 @@
+From: JT Smith <admin@yapcna.org>
+Subject: Re: The keynote & Code of Conduct
+Date: Fri, 9 Mar 2012 22:42:38 -0600
+In-Reply-To: <4F5AD607.8080204@pobox.com>
+To: Michael G Schwern <schwern@pobox.com>
+References: <4F5AB572.2040303@pobox.com> <CE3542D1-B45F-4BCF-9860-003BF59ABC0A@yapcna.org> <4F5AD607.8080204@pobox.com>
+Message-Id: <FE540329-809F-4E96-A66A-C7395D0EE766@yapcna.org>
+
+I have listened to the experts, and you're not it. Neither are the dozen
+people who have been harassing me about it. The only people who give a
+shit about this are white guys like you.
+
+I've talked to a lot of friends who attend technology conferences.
+People who are gay, women, non-white ethnicities; people who have been
+assaulted; people who have been raped. Those people are the ones that
+told me this thing doesn't matter. To them actions matter, not words.
+This is what they have told me.
+
+The only people that care about the niggly bits of a code of conduct
+(and you should really stop abbreviating it as CoC because it spells
+"cock") are you and a bunch of other white guys. The people who actually
+get harassed want to know you will do something. They don't care if you
+have this bullet point or that, just that you care, and that you're
+working to make sure that sort of non-sense doesn't happen.
+
+How many people do you know that have been raped? I know seven.
+
+How many people do you know that are gay? I have 3 in my immediate
+family, and 5 more that I hang out with a on a regular basis. And one
+more that is transgender.
+
+How many people are your close friends that aren't white? Of the 10
+people I call friend on earth, 3 aren't white.
+
+I'm also married to a wonderful woman who does this shit for a living.
+She used to set up policies like this when she worked in HR, and now she
+runs conventions all over the United States. So I quite literally am
+married to an expert on the subject.
+
+I know the people that are marginalized by society, because they are
+around me all the time. I think I have a better vantage point than you
+to make a judgement about what is or is not a good code of conduct.
+
+
+JT Smith
+Director, YAPC::NA 2012
+http://www.yapcna.org
+
+PS
+
+Another way you can support Perl is by adding a link to the bottom of
+your web site, or on your credits / thank you page to
+http://www.perl.org
+
+
+On Mar 9, 2012, at 10:18 PM, Michael G Schwern wrote:
+
+> On 2012.3.9 6:35 PM, JT Smith wrote:
+>> This my world, and I prefer to live in a world without bullshit. I will
+>> protect the weak and those victimized with the greatest fervor of anyone you
+>> will ever know. However, I will not put bullshit words on a web site and act
+>> as if they'd have any affect real world situations.
+>
+> You might think it's bullshit, and the words might not mean much to you, but
+> understand that your PoV is not a concern here.  Nor is mine.  The CoC doesn't
+> exist for you and it doesn't exist for me.  This is hard to accept, but you
+> must accept it in order to truly understand and get behind an anti-harassment
+> policy.
+>
+> The words are not for us, they are for the people who have been harassed.
+> They're for the people who feel unsafe in crowds of white guys because they,
+> or somebody they know like them, has been assaulted and then nobody did
+> anything about it.  The words are there to say "we will not stand for that
+> shit, and we will listen to you" and that is very important to some people,
+> but not to us because we're safe and we've always been safe.
+>
+> As dudes (and I realize I'm making an assumption about you, but it is a very
+> safe bet), it is very difficult to understand how important that is logically
+> but especially emotionally.  The CoC is not for us, and we don't need it.
+> We're just dabblers.  As such, it's foolish for us to think we can decide
+> what's best.
+>
+> Listen to the people who have a stake in the CoC, who have been victims of
+> harassment, and who have been studying this problem for years.  Listen to the
+> Ada Initiative, the Geek Feminism Wiki, Open Source Bridge (organizers half
+> women who seriously and successfully looked at the problem of getting more
+> women at Open Source conferences), Skud, Jacinta Richardson and whatever few
+> Perl women I can scrape up these days.  Listen to the dozen people who have
+> asked you to beef up the CoC.  Listen to your keynote speaker who has been
+> researching this topic for a year.  Recognize our limits and listen to the
+> experts and the stakeholders.
+>
+> It doesn't harm you to make the CoC more clear, it doesn't limit your
+> authority, the experts say it's the right thing to do, and it will help those
+> who are the whole point of the CoC.  Seems clear cut to me.
+>
+> I have many more things to say on the topic, but I won't overwhelm you just
+> now.  I hope the above will be enough.
+>
+>
+> --
+> 124. Two drink limit does not mean first and last.
+>    -- The 213 Things Skippy Is No Longer Allowed To Do In The U.S. Army
+>           http://skippyslist.com/list/
