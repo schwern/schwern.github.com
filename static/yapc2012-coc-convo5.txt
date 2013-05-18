@@ -1,4 +1,4 @@
-From: JT Smith <admin@yapcna.org>
+From: ************ <admin@yapcna.org>
 Subject: Re: The keynote & Code of Conduct
 Date: Fri, 9 Mar 2012 22:58:30 -0600
 In-Reply-To: <4F5AD607.8080204@pobox.com>
@@ -27,7 +27,7 @@ let me know if you want to back out of they keynote, so I can assign it
 to someone who wants it.
 
 
-JT Smith
+************
 Director, YAPC::NA 2012
 http://www.yapcna.org
 

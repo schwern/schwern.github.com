@@ -1,5 +1,5 @@
 From: Michael G Schwern <schwern@pobox.com>
-To: JT Smith <admin@yapcna.org>
+To: ********** <admin@yapcna.org>
 Subject: The keynote & Code of Conduct
 
 Hey,

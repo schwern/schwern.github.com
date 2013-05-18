@@ -1,4 +1,4 @@
-From: JT Smith <admin@yapcna.org>
+From: ************ <admin@yapcna.org>
 Subject: Re: The keynote & Code of Conduct
 Date: Fri, 9 Mar 2012 22:42:38 -0600
 In-Reply-To: <4F5AD607.8080204@pobox.com>
@@ -42,7 +42,7 @@ around me all the time. I think I have a better vantage point than you
 to make a judgement about what is or is not a good code of conduct.
 
 
-JT Smith
+***********
 Director, YAPC::NA 2012
 http://www.yapcna.org
 
@@ -55,7 +55,7 @@ http://www.perl.org
 
 On Mar 9, 2012, at 10:18 PM, Michael G Schwern wrote:
 
-> On 2012.3.9 6:35 PM, JT Smith wrote:
+> On 2012.3.9 6:35 PM, ********* wrote:
 >> This my world, and I prefer to live in a world without bullshit. I will
 >> protect the weak and those victimized with the greatest fervor of anyone you
 >> will ever know. However, I will not put bullshit words on a web site and act

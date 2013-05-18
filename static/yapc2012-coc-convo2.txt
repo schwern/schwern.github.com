@@ -1,4 +1,4 @@
-From: JT Smith <admin@yapcna.org>
+From: ********** <admin@yapcna.org>
 Subject: Re: The keynote & Code of Conduct
 Date: Fri, 9 Mar 2012 20:35:15 -0600
 In-Reply-To: <4F5AB572.2040303@pobox.com>
@@ -8,7 +8,7 @@ Message-Id: <CE3542D1-B45F-4BCF-9860-003BF59ABC0A@yapcna.org>
 
 Responses inline. Wow that's a long email. =)
 
-JT Smith
+*********
 Director, YAPC::NA 2012
 http://www.yapcna.org
 
